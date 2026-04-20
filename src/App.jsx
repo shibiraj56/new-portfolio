@@ -272,7 +272,7 @@ function Hero() {
       }
     }, 80);
     return () => clearInterval(interval);
-  }, [ti]);
+  }, [ti, titles]);
 
   return (
     <section id="about" style={{
