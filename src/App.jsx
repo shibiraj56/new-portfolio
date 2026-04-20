@@ -247,9 +247,11 @@ function Navbar({ active, setActive }) {
   );
 }
 
+const HERO_TITLES = ["React Developer", "Frontend Engineer", "UI Builder"];
+
 function Hero() {
   const [typed, setTyped] = useState("");
-  const titles = ["React Developer", "Frontend Engineer", "UI Builder"];
+  const titles = HERO_TITLES;
   const [ti, setTi] = useState(0);
 
   useEffect(() => {
