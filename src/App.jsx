@@ -148,12 +148,12 @@ const PROJECTS = [
 
 const CERTIFICATIONS = [
   { title: "Software Engineer Intern", issuer: "HackerRank", date: "Mar 2026", icon: "💻" },
+  { title: "Introduction to Software Testing — Level 1", issuer: "TestGrid University", date: "Mar 2026", icon: "🧪" },
   { title: "React (Basic)", issuer: "HackerRank", date: "2024", icon: "⚛️" },
   { title: "JavaScript Basic & Intermediate", issuer: "HackerRank", date: "2024", icon: "🟨" },
   { title: "Problem Solving Basic & Intermediate", issuer: "HackerRank", date: "2024", icon: "🧩" },
   { title: "Java (Basic)", issuer: "HackerRank", date: "2024", icon: "☕" },
   { title: "IEEE Publication", issuer: "License Plate Detection", date: "May 2024", icon: "📰" },
-  { title: "Introduction to Software Testing — Level 1", issuer: "TestGrid University", date: "Mar 2026", icon: "🧪" },
 ];
 
 // ─── HOOKS ───────────────────────────────────────────────────────────────────
