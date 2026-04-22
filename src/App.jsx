@@ -456,7 +456,7 @@ function Hero() {
           </div>
 
           <div style={{ display: "flex", gap: isMobile ? 20 : 32, flexWrap: "wrap" }}>
-            {[["4+", "Internships"], ["6+", "Projects"], ["1", "IEEE Paper"], ["5+", "Certs"]].map(([n, l]) => (
+            {[["4+", "Internships"], ["10+", "Projects"], ["1", "IEEE Paper"], ["5+", "Certs"]].map(([n, l]) => (
               <div key={l}>
                 <div style={{ fontSize: 22, fontWeight: 700, fontFamily: "'Playfair Display', serif" }}>{n}</div>
                 <div style={{ fontSize: 11, color: "#999", marginTop: 2 }}>{l}</div>
